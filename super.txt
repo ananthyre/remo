@@ -4,3 +4,6 @@ remo
 {
 king
 }
+1234
+master
+lion
